@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>default.png</file>
+        <file>hover_.png</file>
+    </qresource>
+</RCC>

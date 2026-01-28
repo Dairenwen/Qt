@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>favicon.png</file>
+        <file>B.png</file>
+        <file>downline.png</file>
+        <file>gridinsert.png</file>
+    </qresource>
+</RCC>

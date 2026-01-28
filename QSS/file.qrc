@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>file.txt</file>
+        <file>default.png</file>
+        <file>default_.png</file>
+        <file>hover.png</file>
+        <file>hover_.png</file>
+        <file>press.png</file>
+        <file>press_.png</file>
+    </qresource>
+</RCC>
